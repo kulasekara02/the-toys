@@ -1,4 +1,4 @@
-Certainly! Here's an outline of an Android app that includes user registration, login, product browsing, and invoice generation functionalities:
+Here's an outline of an Android app that includes user registration, login, product browsing, and invoice generation functionalities:
 
 1. User Registration:
    - Create a registration screen with fields like username, password, user type.
